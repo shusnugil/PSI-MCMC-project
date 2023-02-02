@@ -13,3 +13,9 @@ To start, please
 * On Symmetry, log in to Jupyterhub, then
 * Start a `Terminal` session, and then type `git clone ` + paste the SSH URL
 * In the Jupyterhub file browser on the left-hand side, find and open the `PSI-MCMC-project` directory, and then open the `Project.ipynb` notebook
+
+As you work, you may want to save and *commit* your work so you don't lose anything!
+* In Jupyterhub, hit the *save* button (or go to the *File* menu to *Save*)
+* In a `Terminal` session, `cd PSI-MCMC-project` and then `git commit -a -m "helpful message"`.
+
+When you are done, you will "hand in" your assignment like before, by completing a *survey* on the PSI Portal, giving the URL of your Github repository.
