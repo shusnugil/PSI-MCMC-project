@@ -1,8 +1,9 @@
 # PSI-MCMC-project
 Project assignment for MCMC Week, PSI Numerical Methods 2023
 
-For this assignment, we will look at the efficiency (convergence speed) for three different MCMC approaches:
-* plain old Metropolis-Hastings with (uncorrelated) Gaussian jumps
+For this assignment, we will look at the efficiency (convergence speed) for four different MCMC approaches:
+* plain old Metropolis-Hastings with (uncorrelated) Gaussian jumps, and bad step sizes
+* Metropolis-Hastings with (uncorrelated) Gaussian jumps, and good step sizes
 * Metropolis-Hastings with correlated Gaussian jumps
 * the Affine-invariant ensemble sampler
 
